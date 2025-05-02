@@ -44,7 +44,7 @@ const CertificationsSection = () => {
       description: 'Lovely Professional University',
       icon: 'certificate',
       image: '/cerificate-cipher.png',
-      link: '/certificate-cipher.png',
+      link: '/cerificate-cipher.png',
     },
   ];
 
