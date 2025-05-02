@@ -99,7 +99,7 @@ const AboutSection = () => {
           >
             <Card className="glass transition-transform hover:-translate-y-2 duration-300 mb-6">
               <CardContent className="p-6 text-center">
-                <h4 className="text-4xl font-bold text-gradient mb-2">3rd Year B.Tech Student</h4>
+                <h4 className="text-4xl font-bold text-gradient mb-2">3rd Year B.Tech CSE Student</h4>
                 <p className="text-muted-foreground">Specializing in React, Node.js, Express.js, and modern web technologies. Experienced in building scalable, maintainable, and user-friendly applications.</p>
               </CardContent>
             </Card>
