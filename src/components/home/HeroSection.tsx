@@ -89,7 +89,11 @@ const HeroSection = () => {
           <div className="glass w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-2 border-white/10 relative z-10">
             <div className="absolute inset-0 bg-gradient-to-tr from-primary/40 to-blue-500/40"></div>
             <div className="absolute inset-0 flex items-center justify-center">
-              <span className="text-5xl font-bold text-white tracking-tight">MS</span>
+               <img 
+                src="/mannu.png" 
+                alt="Manchita Sharma" 
+                className="w-full h-full object-cover rounded-full"
+              />
             </div>
           </div>
           <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-80 h-80 sm:w-96 sm:h-96 rounded-full bg-primary/20 blur-3xl"></div>
