@@ -143,7 +143,7 @@ const CertificationsSection = () => {
             transition={{ duration: 0.6 }}
             className="space-y-6"
           >
-            <h3 className="text-2xl font-semibold">Achievements</h3>
+            <h3 className="text-2xl font-semibold">Co-Curricular</h3>
             <div className="space-y-6">
               {achievements.map((achievement) => (
                 <motion.div
