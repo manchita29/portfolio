@@ -82,7 +82,7 @@ const CertificationsSection = () => {
           className="flex flex-col items-center text-center mb-16"
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Certifications & <span className="text-gradient">Achievements</span>
+            Certifications & <span className="text-gradient">Co-Curricular</span>
           </h2>
           <div className="w-20 h-1 bg-primary rounded mb-8"></div>
           <p className="text-muted-foreground max-w-2xl text-center">
