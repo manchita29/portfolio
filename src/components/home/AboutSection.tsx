@@ -32,7 +32,7 @@ const AboutSection = () => {
           </h2>
           <div className="w-20 h-1 bg-primary rounded mb-8"></div>
           <p className="text-muted-foreground max-w-2xl text-center">
-            I am a passionate Full Stack Developer with hands-on experience in building dynamic and responsive web applications. My expertise includes C++, JavaScript, React, Node.js, Express.js, Angular, and MongoDB. I thrive in collaborative environments and excel at problem-solving, time management, and adapting to new challenges. I am committed to delivering high-quality solutions and continuously expanding my technical and soft skills.
+            I am a 3rd Year B.Tech CSE Student and a  passionate Full Stack Developer with hands-on experience in building dynamic and responsive web applications. My expertise includes C++, JavaScript, React, Node.js, Express.js, Angular, and MongoDB. I thrive in collaborative environments and excel at problem-solving, time management, and adapting to new challenges. I am committed to delivering high-quality solutions and continuously expanding my technical and soft skills.
           </p>
         </motion.div>
         
