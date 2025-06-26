@@ -9,6 +9,7 @@ import ContactSection from '@/components/home/ContactSection';
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 import CertificationsSection from '@/components/home/CertificationsSection';
+import UiUxPassionSection from '@/components/home/UiUxPassionSection';
 
 const Index = () => {
   const [isLoading, setIsLoading] = useState(true);
@@ -71,6 +72,7 @@ const Index = () => {
             {/* <SkillsSection /> */}
             <CertificationsSection />
             <ProjectsSection />
+             <UiUxPassionSection />
             <ContactSection />
           </main>
           
